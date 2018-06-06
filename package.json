@@ -4,7 +4,8 @@
   "description": "Library for interacting with the JAAS (Juju as a Service) services",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/juju/jaaslibjs/issues"
   },
-  "homepage": "https://github.com/juju/jaaslibjs#readme"
+  "homepage": "https://github.com/juju/jaaslibjs#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
 }
