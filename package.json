@@ -1,0 +1,27 @@
+{
+  "name": "jaaslibjs",
+  "version": "0.1.0",
+  "description": "Library for interacting with the JAAS (Juju as a Service) services",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juju/jaaslibjs.git"
+  },
+  "keywords": [
+    "juju",
+    "jaas"
+  ],
+  "author": "Jeff Pihach <jeff.pihach@canonical.com> (https://fromanegg.com)",
+  "contributors": [
+    "Francesco Banconi <francesco.banconi@canonical.com>",
+    "Huw Wilkins <huw.wilkins@canonical.com>"
+  ],
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/juju/jaaslibjs/issues"
+  },
+  "homepage": "https://github.com/juju/jaaslibjs#readme"
+}
