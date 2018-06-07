@@ -28,5 +28,8 @@ Interact with the rates service.
 ### Stripe
 Interact with the stripe service.
 
+### Terms
+Interact with the terms service.
+
 ### URLS
 Static parsing of charm and bundle urls.

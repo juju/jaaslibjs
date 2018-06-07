@@ -10,6 +10,7 @@ const payment = require('./lib/payment');
 const plans = require('./lib/plans');
 const rates = require('./lib/rates');
 const stripe = require('./lib/stripe');
+const terms = require('./lib/terms');
 const urls = require('./lib/urls');
 
 module.exports = {
@@ -21,5 +22,6 @@ module.exports = {
   plans,
   rates,
   stripe,
+  terms,
   urls
 };
