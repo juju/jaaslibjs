@@ -4,8 +4,11 @@ Provides tools for interacting with the various JAAS (Juju as a Service) service
 
 ## Libraries
 
+### Bakery
+Perform macaroon aware network requests.
+
+### BundleService
+Fetch bundle details from the Bundle Service.
+
 ### URLS
 Static parsing of charm and bundle urls.
-
-### Bakery
-Library for performing macaroon aware network requests.
