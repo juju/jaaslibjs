@@ -4,10 +4,12 @@
 
 const bakery = require('./lib/bakery');
 const bundleService = require('./lib/bundleservice');
+const charmstore = require('./lib/charmstore');
 const urls = require('./lib/urls');
 
 module.exports = {
   bakery,
   bundleService,
+  charmstore,
   urls
 };

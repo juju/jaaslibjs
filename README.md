@@ -10,5 +10,8 @@ Perform macaroon aware network requests.
 ### BundleService
 Fetch bundle details from the Bundle Service.
 
+### Charmstore
+Interact with the JAAS Charmstore.
+
 ### URLS
 Static parsing of charm and bundle urls.
