@@ -19,5 +19,8 @@ Interact with the Candid identity service.
 ### Payment
 Interact with the payment service.
 
+### Plans
+Interact with the plans service.
+
 ### URLS
 Static parsing of charm and bundle urls.
