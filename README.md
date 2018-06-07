@@ -16,5 +16,8 @@ Interact with the JAAS Charmstore.
 ### Identity
 Interact with the Candid identity service.
 
+### Payment
+Interact with the payment service.
+
 ### URLS
 Static parsing of charm and bundle urls.

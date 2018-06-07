@@ -6,6 +6,7 @@ const bakery = require('./lib/bakery');
 const bundleService = require('./lib/bundleservice');
 const charmstore = require('./lib/charmstore');
 const identity = require('./lib/identity');
+const payment = require('./lib/payment');
 const urls = require('./lib/urls');
 
 module.exports = {
@@ -13,5 +14,6 @@ module.exports = {
   bundleService,
   charmstore,
   identity,
+  payment,
   urls
 };
