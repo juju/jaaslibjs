@@ -29,3 +29,5 @@ rules:
   space-before-function-paren: ["error", "never"]
   space-in-parens: 2
   strict: [2, "global"]
+globals:
+  Stripe: true
