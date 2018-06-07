@@ -25,5 +25,8 @@ Interact with the plans service.
 ### Rates
 Interact with the rates service.
 
+### Stripe
+Interact with the stripe service.
+
 ### URLS
 Static parsing of charm and bundle urls.
