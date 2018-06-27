@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0] - 2018-06-27
+### Changed
+- Replaced text-encoding dependency with native TextEncoder/Decoder.
+
 ## [0.2.0] - 2018-06-12
 ### Added
 - authorizeSLA method to the plans lib.
