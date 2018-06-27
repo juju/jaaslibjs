@@ -1,6 +1,6 @@
 {
   "name": "jaaslib",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Library for interacting with the JAAS (Juju as a Service) services",
   "main": "index.js",
   "scripts": {
