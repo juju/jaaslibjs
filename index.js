@@ -2,7 +2,7 @@
 
 'use strict';
 
-const bakery = require('./lib/bakery');
+const bakery = require('macaroon-bakery');
 const bundleService = require('./lib/bundleservice');
 const charmstore = require('./lib/charmstore');
 const identity = require('./lib/identity');
