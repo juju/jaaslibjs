@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2018-06-28
+### Added
+- Included the macaroon-bakery package.
+### Removed
+- Removed bakery.js as it was moved to the bakeryjs lib (https://github.com/juju/bakeryjs)
+
 ## [0.3.1] - 2018-06-27
 ### Changed
 - Updated macaroon package version.
