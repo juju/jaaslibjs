@@ -2,7 +2,6 @@
 
 'use strict';
 
-const bakery = require('macaroon-bakery');
 const bundleService = require('./lib/bundleservice');
 const charmstore = require('./lib/charmstore');
 const identity = require('./lib/identity');
@@ -14,7 +13,6 @@ const terms = require('./lib/terms');
 const urls = require('./lib/urls');
 
 module.exports = {
-  bakery,
   bundleService,
   charmstore,
   identity,
