@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2018-07-12
+### Removed
+- Removed macaroon and macaroon-bakery dependencies.
+
 ## [0.4.1] - 2018-07-12
 ### Added
 - Added cosmic and kubernetes series to urls.
