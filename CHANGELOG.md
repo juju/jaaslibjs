@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.6.0] - 2019-08-12
+### Removed
+- Stopped requesting the `revision-info` key from the Charmstore as it can return a very large amount of data causing performance issues.
+
 ## [0.5.0] - 2018-07-12
 ### Removed
 - Removed macaroon and macaroon-bakery dependencies.
