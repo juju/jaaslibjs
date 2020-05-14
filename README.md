@@ -2,6 +2,8 @@
 
 Provides tools for interacting with the various JAAS (Juju as a Service) services.
 
+To install: `npm i @canonical/jaaslib`
+
 ## Libraries
 
 ### Bakery
