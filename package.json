@@ -1,6 +1,6 @@
 {
   "name": "@canonical/jaaslib",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Library for interacting with the JAAS (Juju as a Service) services",
   "main": "index.js",
   "scripts": {
